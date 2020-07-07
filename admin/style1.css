@@ -1,0 +1,511 @@
+
+ #main
+ {
+ height:150px;
+ width:1335px;
+ border:2px;
+ background-color:
+ border-radius:20px 20px 0px 0px;
+ 
+ }
+  #main1
+ {
+ height:50px;
+ width:1335px;
+ border:2px;
+ border-color:black;
+ background-color:#99c2ff;
+  border-radius:20px 20px 0px 0px;
+  background-image: url("images/plus.jpg");
+ }
+  #main2
+ {
+ height:100px;
+ width:1335px;
+ border:2px;
+ border-color:black;
+background-color:white;
+
+ }
+ #foot
+ {
+ height:500px;
+ width:1335px;
+ background-color:red;
+ }
+  #ft1
+ {
+ height:400px;
+ width:1335px;
+  background-color:red;
+ }
+  #fta
+ {
+ height:400px;
+ width:100px;
+ float:left;
+  background-color:green;
+ }
+ #ftb
+ {
+ height:400px;
+ width:531px;
+border-right:2px solid;
+ float:left;
+ 
+  background-color:pink;
+ }
+  #ftb1
+ {
+  height:300px;
+ width:531px;
+font-size:18px;
+ background-color:yellow;
+ } 
+ #ftb2
+ {
+  height:100px;
+ width:531px;
+ font-size:18px;
+ border-top:2px solid;
+ 
+  background-color:blue;
+ }
+  #ftc
+ {
+  height:400px;
+ width:530px;
+ font-size:18px;
+  background-color:orange;
+ }
+ #main1a
+ {
+  height:50px;
+ width:33px;
+ float:left;
+ border-right:2px solid;
+ border-color:white;
+ }
+ .main1b
+ {
+  height:50px;
+ width:248px;
+  float:left;
+ border-right:2px solid;
+  border-color:white;
+ }
+ #main1c
+ {
+  height:50px;
+ width:500px;
+ float:right;
+
+ 
+ }
+ .main1b table
+ {
+ margin-top:10px;
+ color:white;
+ font-size:24px;
+ list-style-type:none;
+
+ }
+ .main1b table tr td a
+ {
+ color:white;
+ text-decoration:none;
+  text-align:center;
+ }
+ .main1b table tr td a:hover
+ {
+ color:red;
+ }
+ #main1c ul li
+ {
+ display:inline-block;
+ list-style-type:none;
+ text-align:center;
+ padding-right:10px;
+ color:white;
+ width:100px;
+ border:2px solid;
+ 
+ margin-right:30px;
+ }
+ #main ul li a
+ {
+ color:white;
+ text-decoration:none;
+ 
+ }
+ #main ul li a:hover
+ {
+ color:red;
+ }
+ #main2a
+ {
+width:500px;
+height:100px;
+float:left; 
+ }
+ #main2b
+ {
+ width:835px;
+height:100px;
+float:right;
+text-decoration:none;
+ color:blue;
+ }
+ #main2b ul li
+ {
+ display:inline-block;
+ list-style-type:none;
+ padding-right:10px;
+ text-align:right;
+ margin-top:26px;
+ margin-right:35px;
+ font-size:20px;
+ text-align:center;
+ }
+ #main2b ul li a 
+ {
+ color:#0099ff;
+ text-decoration:none;
+ }
+ #main2b ul li a:hover
+ {
+ color:red;
+ }
+ #main2al
+ {
+ height:100px;
+ width:100px;
+ float:left;
+ }
+ #main2ar
+ {
+ height:100px;
+ width:350px;
+ color:blue;
+ float:right;
+ }
+ #slider
+ {
+ height:400px;
+ width:1335px;
+ background:blue;
+ }
+ #book
+ {
+  height:400px;
+ width:1335px;
+ background:green;
+ }
+  #book1
+ {
+  height:400px;
+ width:500px;
+ background:grey;
+ float:left;
+ }
+  #book2
+ {
+  height:400px;
+ width:355px;
+ background:#99c2ff;
+ float:left;
+ }
+ #book2
+ {
+ color:white;
+ }
+ #book2 ul li
+ {
+ color:white;
+ }
+ #book2 ul li a
+ {
+ color:white;
+ }
+  #book3
+ {
+  height:400px;
+ width:480px;
+ background:white;
+ float:right;
+ }
+ #black
+ {
+  height:600px;
+ width:1335px;
+ background-image:url("images/pic2.jpg")
+ }
+ #b1
+ {
+  height:600px;
+ width:150px;
+ float:left;
+ 
+ }
+  #b2
+ {
+ 
+  height:600px;
+ width:1035px;
+ float:left;
+ }
+  #b3
+ {
+ 
+  height:600px;
+ width:150px;
+ float:right;
+ }
+  #b21
+ {
+ 
+  height:600px;
+ width:335px;
+ float:left;
+ text-transform:justify;
+ }
+  #b22
+ {
+ height:600px;
+ width:700px;
+ float:right;
+ 
+ }
+ #btn
+ {
+
+  height:50px;
+ width:200px;
+ font-size:20px;
+ }
+ #btn a
+ 
+ {
+ color:#0099ff;
+ }
+ #btn:hover
+ 
+ {
+ background-color:red;
+ }
+ 
+ #b221
+ {
+  height:300px;
+ width:700px;
+ }
+  #b222
+ {
+  height:300px;
+ width:700px;
+ 
+ }
+  #b221l
+ {
+  height:300px;
+ width:350px;
+ 
+ float:left;
+ }
+ #b221r
+ {
+  height:300px;
+ width:350px;
+ 
+ float:right;
+ }
+ #b222l
+ {
+  height:300px;
+ width:350px;
+ 
+ float:left;
+ }
+ #b222r
+ {
+  height:300px;
+ width:350px;
+ 
+ float:right;
+ }
+ #team
+ {
+  height:600px;
+ width:1335px;
+ background:white;
+ }
+ #team1
+ {
+ height:600px;
+ width:150px;
+ float:left;
+ }
+ #team2
+ {
+ height:600px;
+ width:1035px;
+ float:left;
+ }
+ #team3
+ {
+ height:600px;
+ width:150px;
+ float:left;
+ }
+ #team21
+ {
+ height:150px;
+ width:1035px;
+ }
+ #team22
+ {
+ height:450px;
+ width:1035px;
+ }
+ #team22l
+ {
+ height:450px;
+ width:345px;
+ float:left;
+ }
+ #team22la
+ {
+ height:350px;
+ width:345px;
+ background:green;
+ }
+ #team22lb
+ {
+ height:100px;
+ width:345px;
+ }
+ #team22m
+ {
+ height:450px;
+ width:345px;
+ float:left;
+ }
+ #team22ma
+ {
+ height:350px;
+ width:345px;
+ background:red;
+ }
+ #team22mb
+ {
+ height:100px;
+ width:345px;
+ }
+ #team22r
+ {
+ height:450px;
+ width:345px;
+ float:left;
+ }
+ #team22ra
+ {
+ height:350px;
+ width:345px;
+background:orange;
+ }
+ #team22rb
+ {
+ height:100px;
+ width:345px;
+ 
+ }
+ #capacity
+ {
+  height:400px;
+ width:1335px;
+ background:white;
+ 
+ }
+input[type="email"]{
+width:400px;
+height:35px;
+border-color:#99c2ff;
+}
+input[type="password"]{
+width:400px;
+height:35px;
+border-color:#99c2ff;
+}
+select{
+width:400px;
+height:35px;
+border-color:#99c2ff;
+}
+input[type="submit"]{
+width:150px;
+height:45px;
+font-size:20px;
+
+}
+#foot{background:red;}
+#capacity1
+{
+height:100px;
+width:1335px;
+}
+#capacity2
+{
+height:400px;
+width:1335px;
+}
+.circle
+{
+height:290px;
+width:300px;
+border-radius:150px;
+border:2px solid;
+border-color:black;
+background-color:white;
+float:left;
+margin-left:25px;
+}
+#capacity .circle  img
+{
+width:299px;
+height:289px;
+border-radius:150px;
+}
+#cs
+{
+	height:450px;
+	width:1335px;
+	border-color:black;
+background-color:white;
+}
+#cs1
+{
+	height:450px;
+	width:667.5px;
+	background-color:white;
+	float:left;
+}
+#cs2
+{
+	height:450px;
+	width:667.5px;
+	background-color:yellow;
+	float:left;
+}
+#map
+{
+	height:200px;
+	width:1335px;
+	background-color:green;
+	float:left;
+}
+#table
+{
+border:1px solid;
+border-color:black	
+}
+
